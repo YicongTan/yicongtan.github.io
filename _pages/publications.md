@@ -35,6 +35,5 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">Analyzing components of a transformer under different dataset scales in 3D prostate CT segmentation</span>
 <font size="3"><b>Yicong Tan</b>, Prerak Mody, Viktor van der Valk, Marius Staring, Jan van Gemert;
-<i>Arxiv</i></font>
 <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12464/1246408/Analyzing-components-of-a-transformer-under-different-dataset-scales-in/10.1117/12.2651572.short" class="btn--paper" target="_blank">pdf</a>
 <a href="https://github.com/prerakmody/window-transformer-prostate-segmentation" class="btn--code" target="_blank">code</a>
