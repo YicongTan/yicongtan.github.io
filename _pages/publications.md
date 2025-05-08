@@ -45,7 +45,7 @@ a { TEXT-DECORATION:none }
 <a href="https://dl.acm.org/doi/10.1145/3658644.3690297" class="btn--paper" target="_blank">pdf</a>
 
 *CCS 2024*
-</font>
+
 
 <h2 id='2025'>2025</h2>
 
@@ -54,4 +54,4 @@ a { TEXT-DECORATION:none }
 <a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600a355/26hiTFMb8eQ" class="btn--paper" target="_blank">pdf</a>
 
 *2025 IEEE Symposium on Security and Privacy (SP)*
-</font>
+
