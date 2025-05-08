@@ -44,7 +44,7 @@ a { TEXT-DECORATION:none }
 <font size="3">Zeyang Sha, <b>Yicong Tan</b>, Mingjie Li, Michael Backes, Yang Zhang;
 <a href="https://dl.acm.org/doi/10.1145/3658644.3690297" class="btn--paper" target="_blank">pdf</a>
 
-*CCS '24: Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security*
+*CCS 2024*
 </font>
 
 <h2 id='2025'>2025</h2>
